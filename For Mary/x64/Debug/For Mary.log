@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  userinterface.cpp
+C:\Users\George\Documents\AUEB\yearTwo\cpp\For Mary\For Mary\For Mary\userinterface.cpp(50,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  For Mary.vcxproj -> C:\Users\George\Documents\AUEB\yearTwo\cpp\For Mary\For Mary\bin\For Mary.exe
