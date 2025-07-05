@@ -1,0 +1,10 @@
+VERTICAL_ACCELERATION=10.0
+HORIZONTAL_ACCELERATION=7.0
+MAXIMUM_HORIZONTAL_VELOCITY=3.6
+MAXIMUM_VERTICAL_VELOCITY=5.0
+VELOCITY_X=0.0
+VELOCITY_Y=0.0
+POSITION_X=6.0
+POSITION_Y=4.0
+ANIMATION_RUN= players/player_2/knight_2_run_1.png,players/player_2/knight_2_run_2.png,players/player_2/knight_2_run_3.png,players/player_2/knight_2_run_4.png,players/player_2/knight_2_run_5.png,players/player_2/knight_2_run_6.png
+ANIMATION_IDLE= players/player_2/knight_2_idle_1.png
