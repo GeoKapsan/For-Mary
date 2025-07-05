@@ -4,7 +4,7 @@
 
 Players race through scrolling forest tracks, avoiding obstacles and outpacing AI opponents. The gameplay emphasizes timing, quick reactions, and a bit of arcade-style fun. While the graphics and design are intentionally simple, the core mechanics demonstrate key programming concepts like object-oriented design, real-time input handling, and custom game loops.
 
-The entire game is built using the C++ Simple Game Graphics (SGG) library. It includes basic physics, collision detection, and a clean modular code structure that reflects good software development practices.
+The entire game is built using the C++ Simple Game Graphics (SGG) library. It includes basic physics, collision detection, and a clean modular code structure that reflects good software development practices. Link to library: https://github.com/cgaueb/sgg
 
 ## Features
 
